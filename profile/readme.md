@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="">
-    <source media="(prefers-color-scheme: light)" srcset="">
-    <img alt="Poox" src="" width="700">
+    <source media="(prefers-color-scheme: dark)" srcset="../assets/svg/wordmark-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="../assets/svg/wordmark.svg">
+    <img alt="Poox" src="../assets/svg/wordmark.svg" width="300">
   </picture>
 </p>
 
